@@ -28,7 +28,7 @@ body {
   border-bottom: solid 1px
 }
 #navbar a:hover {
-  color: #97d700;
+  color: #9c3;
   border-color: white;
 }
 #contact {
@@ -37,7 +37,7 @@ body {
   color: white;
 }
 #email {
-  color: #97d700;
+  color: #9c3;
 }
 #main-doc {
   display: block;
@@ -55,7 +55,7 @@ body {
   padding-bottom: 50px;
   margin-bottom: 50px;
   border-bottom: solid 5px;
-  border-color: #97d700;
+  border-color: #9c3;
 }
 h1 {
   font-size: 27px;
@@ -65,7 +65,7 @@ h1 {
 }
 #nav-title {
   margin-top: 10px;
-  color: #97d700;
+  color: #9c3;
 }
 p, ul, ol {
   line-height: 1.5;
@@ -82,5 +82,5 @@ code {
   background: #eee;
 }
 b {
-  color: #97d700;
+  color: #9c3;
 }
