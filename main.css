@@ -1,4 +1,7 @@
 body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   background: #444F60;
   font-family: 'Open Sans', sans-serif;
 }
@@ -8,7 +11,7 @@ body {
   position: fixed;
   top: 0px;
   left: 0px;
-  width: 400px;
+  width: 30%;
   height: 100%;
   background: #444F60;
   padding-left: 35px;
@@ -40,11 +43,12 @@ body {
   color: #9c3;
 }
 #main-doc {
-  display: block;
+  display: flex;
+  flex-direction: column;
   position: absolute;
   top: 0px;
   padding-top: 30px;
-  margin-left: 400px;
+  margin-left: 30%;
   margin-right: 0px;
   color: #444;
   background: white;
